@@ -21,6 +21,11 @@ html {
 body {
   font-family: "Outfit", sans-serif;
   background-color: var(--background);
+  padding: 1rem;
+}
+
+svg {
+  vertical-align: middle;
 }
 
 button {
@@ -42,7 +47,6 @@ a {
   margin-right: auto;
   padding-left: 0.5rem;
   padding-right: 0.5rem;
-  border: 1px solid red;
 }
 
 /* 2xl */
