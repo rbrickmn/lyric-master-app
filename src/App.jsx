@@ -1,10 +1,17 @@
 import { useState } from "react";
+import axios from "axios";
 import "./App.css";
+
+// Component imports
+import Header from "./components/Header/Header.jsx";
 
 function App() {
   return (
     <>
-      <div className="container"></div>
+      <Header />
+      <div className="container">
+        
+      </div>
     </>
   );
 }
