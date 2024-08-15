@@ -1,8 +1,3 @@
-# React + Vite
+# LyricMaster
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Find the lyrics of any song you want with LyricMaster! This was a quick little project I whipped up for some more API practice. It was super fun and I got to work with some useful techniques!
