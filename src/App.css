@@ -9,11 +9,11 @@ input {
 pre {
   text-align: center;
   font-family: "Outfit", sans-serif;
-  text-transform: capitalize;
 }
 
 h2 {
   margin: 1rem;
+  text-transform: capitalize;
 }
 
 .search-wrapper {
